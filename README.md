@@ -25,8 +25,6 @@ The project was created to practice Python programming fundamentals and build my
 - "if / elif / else"
 - "while" loops
 - "for" loops
-- Lists
-- Dictionaries
 - Functions
 - Counters and statistics
 - Random choices
