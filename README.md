@@ -29,21 +29,13 @@ Features
 -Random choices
 -Basic game logic
 
- How to Run
-
-Make sure Python is installed on your computer.
-
-Then run:
-
-game.py
-
- Technologies
-
--python 3
 
 
- Project Status
-
-Completed.
+How to Run
+make sure python 3 installed
+clone https://github.com/zeinabjavanshiriv/Rock-paper-scissors-python.git
 
 Future improvements may include a graphical user interface, saved statistics, and additional game modes.
+
+
+----make sure to shine my silver star----
